@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "git-factory",
+    "slug": "git-factory",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
