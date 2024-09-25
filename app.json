@@ -7,6 +7,14 @@
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cfa740db-877c-423c-baf8-891c87af3bb0"
+      }
+    },
+    "android": {
+      "package": "com.majidaliwatto.gitfactory"
+    }
   }
 }
