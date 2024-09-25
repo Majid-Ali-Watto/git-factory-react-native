@@ -17,3 +17,6 @@ To set up and run the application locally, follow these steps:
    ```bash
    git clone https://github.com/Majid-Ali-Watto/git-factory-react-native.git
    ```
+
+[View Git Factory Web Part](https://github.com/Majid-Ali-Watto/Git-factory.git)
+[Live Preview of Git Factory Web Part](https://git-factory.netlify.app/)
